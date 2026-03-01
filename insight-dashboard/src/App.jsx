@@ -8,7 +8,7 @@ import {
   Users, Globe, Languages, TrendingUp, Search, Info, Map as MapIcon,
   BarChart2, PieChart as PieChartIcon, Activity
 } from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { AnimatePresence } from 'framer-motion';
 import { ComposableMap, Geographies, Geography, ZoomableGroup } from "react-simple-maps";
 import { scaleLinear } from "d3-scale";
 import data from './data.json';
