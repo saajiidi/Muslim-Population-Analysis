@@ -1,0 +1,408 @@
+[
+  {
+    "ethnicity": "Persian",
+    "languages": "Persian (Farsi)",
+    "regions": "Iran",
+    "relation": "Persian",
+    "population": 75.0
+  },
+  {
+    "ethnicity": "Tatar",
+    "languages": "Tatar",
+    "regions": "Russia (Tatarstan), Central Asia",
+    "relation": "Turkik",
+    "population": 13.0
+  },
+  {
+    "ethnicity": "Kanuri",
+    "languages": "Kanuri",
+    "regions": "Nigeria, Chad",
+    "relation": "West African",
+    "population": 5.0
+  },
+  {
+    "ethnicity": "Azeri",
+    "languages": "Azerbaijani (Azeri Turkish)",
+    "regions": "Azerbaijan, Iran",
+    "relation": "Persian",
+    "population": 25.0
+  },
+  {
+    "ethnicity": "Egyptian Arab",
+    "languages": "Arabic (Egyptian dialect)",
+    "regions": "Egypt",
+    "relation": "Arab",
+    "population": 97.0
+  },
+  {
+    "ethnicity": "Lak",
+    "languages": "Lak",
+    "regions": "Russia (Dagestan)",
+    "relation": "European",
+    "population": 1.5
+  },
+  {
+    "ethnicity": "Hausa",
+    "languages": "Hausa",
+    "regions": "Nigeria, Niger",
+    "relation": "West African",
+    "population": 65.0
+  },
+  {
+    "ethnicity": "Rohingya",
+    "languages": "Rohingya",
+    "regions": "Myanmar, Bangladesh",
+    "relation": "Subcontinental",
+    "population": 3.0
+  },
+  {
+    "ethnicity": "Arab",
+    "languages": "Arabic (Gulf dialects)",
+    "regions": "Saudi Arabia, Yemen, UAE, Qatar, Kuwait, Iraq, Bahrain, Oman",
+    "relation": "Arab",
+    "population": 125.0
+  },
+  {
+    "ethnicity": "Swahili",
+    "languages": "Swahili",
+    "regions": "East Africa (Tanzania, Kenya)",
+    "relation": "East African",
+    "population": 5.0
+  },
+  {
+    "ethnicity": "Gilaki",
+    "languages": "Gilaki",
+    "regions": "Iran",
+    "relation": "Persian",
+    "population": 3.0
+  },
+  {
+    "ethnicity": "Levantine Arab",
+    "languages": "Arabic (Levantine dialects)",
+    "regions": "Syria, Lebanon, Jordan, Palestine",
+    "relation": "Arab",
+    "population": 87.0
+  },
+  {
+    "ethnicity": "Gujarati",
+    "languages": "Gujarati",
+    "regions": "India (Gujarat)",
+    "relation": "Subcontinental",
+    "population": 11.0
+  },
+  {
+    "ethnicity": "Bosniak",
+    "languages": "Bosnian",
+    "regions": "Bosnia and Herzegovina",
+    "relation": "European",
+    "population": 6.0
+  },
+  {
+    "ethnicity": "Bihari",
+    "languages": "Bhojpuri, Urdu",
+    "regions": "India (Bihar)",
+    "relation": "Subcontinental",
+    "population": 27.0
+  },
+  {
+    "ethnicity": "Maldivian",
+    "languages": "Dhivehi",
+    "regions": "Maldives",
+    "relation": "Subcontinental",
+    "population": 0.5
+  },
+  {
+    "ethnicity": "Pashtun",
+    "languages": "Pashto",
+    "regions": "Afghanistan, Pakistan",
+    "relation": "Persian",
+    "population": 50.0
+  },
+  {
+    "ethnicity": "Sudanese Arab",
+    "languages": "Arabic (Sudanese dialect)",
+    "regions": "Sudan",
+    "relation": "East African",
+    "population": 46.0
+  },
+  {
+    "ethnicity": "Uzbek",
+    "languages": "Uzbek",
+    "regions": "Uzbekistan",
+    "relation": "Turkik",
+    "population": 5.0
+  },
+  {
+    "ethnicity": "Hui",
+    "languages": "Mandarin Chinese",
+    "regions": "China",
+    "relation": "East Asian",
+    "population": 6.0
+  },
+  {
+    "ethnicity": "Kashmiri",
+    "languages": "Kashmiri, Pahari",
+    "regions": "India (Jammu & Kashmir), Pakistan (Azad Jammu & Kashmir)",
+    "relation": "Subcontinental",
+    "population": 11.0
+  },
+  {
+    "ethnicity": "Turkmen",
+    "languages": "Turkmen",
+    "regions": "Turkmenistan",
+    "relation": "Turkik",
+    "population": 5.0
+  },
+  {
+    "ethnicity": "Yoruba",
+    "languages": "Yoruba",
+    "regions": "Nigeria",
+    "relation": "West African",
+    "population": 15.0
+  },
+  {
+    "ethnicity": "Bengali",
+    "languages": "Bengali",
+    "regions": "Bangladesh, India (West Bengal)",
+    "relation": "Subcontinental",
+    "population": 238.0
+  },
+  {
+    "ethnicity": "Chechen",
+    "languages": "Chechen",
+    "regions": "Russia (Chechnya)",
+    "relation": "European",
+    "population": 7.0
+  },
+  {
+    "ethnicity": "Mazanderani",
+    "languages": "Mazanderani",
+    "regions": "Iran",
+    "relation": "Persian",
+    "population": 2.0
+  },
+  {
+    "ethnicity": "Sindhi",
+    "languages": "Sindhi",
+    "regions": "Pakistan (Sindh)",
+    "relation": "Subcontinental",
+    "population": 21.0
+  },
+  {
+    "ethnicity": "Malayali",
+    "languages": "Malayalam",
+    "regions": "India (Kerala, non-Mappila)",
+    "relation": "Subcontinental",
+    "population": 3.0
+  },
+  {
+    "ethnicity": "Bambara",
+    "languages": "Bambara",
+    "regions": "Mali",
+    "relation": "West African",
+    "population": 2.0
+  },
+  {
+    "ethnicity": "Tajik",
+    "languages": "Tajik (Persian dialect)",
+    "regions": "Tajikistan, Afghanistan",
+    "relation": "Persian",
+    "population": 12.0
+  },
+  {
+    "ethnicity": "Ingush",
+    "languages": "Ingush",
+    "regions": "Russia (Ingushetia)",
+    "relation": "European",
+    "population": 1.0
+  },
+  {
+    "ethnicity": "Somali",
+    "languages": "Somali",
+    "regions": "Somalia, Ethiopia, Kenya",
+    "relation": "East African",
+    "population": 17.0
+  },
+  {
+    "ethnicity": "Kurd",
+    "languages": "Kurdish (Kurmanji, Sorani)",
+    "regions": "Turkey, Iraq, Iran, Syria",
+    "relation": "Persian",
+    "population": 35.0
+  },
+  {
+    "ethnicity": "Berber",
+    "languages": "Berber (Tamazight, dialects)",
+    "regions": "Morocco, Algeria, Tunisia",
+    "relation": "North African",
+    "population": 25.0
+  },
+  {
+    "ethnicity": "Hyderabadi",
+    "languages": "Urdu",
+    "regions": "India (Telangana)",
+    "relation": "Subcontinental",
+    "population": 3.0
+  },
+  {
+    "ethnicity": "Wolof",
+    "languages": "Wolof",
+    "regions": "Senegal",
+    "relation": "West African",
+    "population": 2.0
+  },
+  {
+    "ethnicity": "Mappila",
+    "languages": "Malayalam",
+    "regions": "India (Kerala, Malabar region)",
+    "relation": "Subcontinental",
+    "population": 14.0
+  },
+  {
+    "ethnicity": "Assamese",
+    "languages": "Assamese",
+    "regions": "India (Assam)",
+    "relation": "Subcontinental",
+    "population": 4.0
+  },
+  {
+    "ethnicity": "Circassian",
+    "languages": "Adyghe, Kabardian",
+    "regions": "Russia (North Caucasus)",
+    "relation": "European",
+    "population": 1.5
+  },
+  {
+    "ethnicity": "Tuareg",
+    "languages": "Tamasheq",
+    "regions": "Mali, Niger, Algeria",
+    "relation": "West African",
+    "population": 3.0
+  },
+  {
+    "ethnicity": "Mandinka",
+    "languages": "Mandinka",
+    "regions": "West Africa (Senegal, Gambia, Guinea)",
+    "relation": "West African",
+    "population": 10.0
+  },
+  {
+    "ethnicity": "Uighur",
+    "languages": "Uyghur",
+    "regions": "China (Xinjiang)",
+    "relation": "Turkik",
+    "population": 12.0
+  },
+  {
+    "ethnicity": "Dargin",
+    "languages": "Dargwa",
+    "regions": "Russia (Dagestan)",
+    "relation": "European",
+    "population": 2.0
+  },
+  {
+    "ethnicity": "Maghrebi Arab",
+    "languages": "Arabic (Maghrebi dialects)",
+    "regions": "Morocco, Algeria, Tunisia, Libya",
+    "relation": "Arab",
+    "population": 87.0
+  },
+  {
+    "ethnicity": "Balti",
+    "languages": "Balti",
+    "regions": "Pakistan (Gilgit-Baltistan)",
+    "relation": "Subcontinental",
+    "population": 1.0
+  },
+  {
+    "ethnicity": "Baloch",
+    "languages": "Balochi",
+    "regions": "Pakistan, Iran, Afghanistan",
+    "relation": "Persian",
+    "population": 11.0
+  },
+  {
+    "ethnicity": "Tamil",
+    "languages": "Tamil",
+    "regions": "India (Tamil Nadu), Sri Lanka",
+    "relation": "Subcontinental",
+    "population": 3.0
+  },
+  {
+    "ethnicity": "Hindustani",
+    "languages": "Urdu, Hindi",
+    "regions": "India (Uttar Pradesh, Delhi)",
+    "relation": "Subcontinental",
+    "population": 85.0
+  },
+  {
+    "ethnicity": "Turk",
+    "languages": "Turkish",
+    "regions": "Turkey",
+    "relation": "Turkik",
+    "population": 75.0
+  },
+  {
+    "ethnicity": "Lur",
+    "languages": "Luri",
+    "regions": "Iran",
+    "relation": "Persian",
+    "population": 3.0
+  },
+  {
+    "ethnicity": "Lezgin",
+    "languages": "Lezgian",
+    "regions": "Russia (Dagestan), Azerbaijan",
+    "relation": "European",
+    "population": 3.0
+  },
+  {
+    "ethnicity": "Avar",
+    "languages": "Avar",
+    "regions": "Russia (Dagestan)",
+    "relation": "European",
+    "population": 2.0
+  },
+  {
+    "ethnicity": "Saraiki",
+    "languages": "Saraiki",
+    "regions": "Pakistan (South Punjab)",
+    "relation": "Subcontinental",
+    "population": 4.0
+  },
+  {
+    "ethnicity": "Kazakh",
+    "languages": "Kazakh",
+    "regions": "Kazakhstan",
+    "relation": "Turkik",
+    "population": 5.0
+  },
+  {
+    "ethnicity": "Kyrgyz",
+    "languages": "Kyrgyz",
+    "regions": "Kyrgyzstan",
+    "relation": "Turkik",
+    "population": 7.0
+  },
+  {
+    "ethnicity": "Punjabi",
+    "languages": "Punjabi",
+    "regions": "Pakistan, India (Punjab)",
+    "relation": "Subcontinental",
+    "population": 126.0
+  },
+  {
+    "ethnicity": "Fulani",
+    "languages": "Fulfulde (Fula)",
+    "regions": "Nigeria, Senegal, Guinea",
+    "relation": "West African",
+    "population": 30.0
+  },
+  {
+    "ethnicity": "Albanian",
+    "languages": "Albanian",
+    "regions": "Albania, Kosovo",
+    "relation": "European",
+    "population": 5.0
+  }
+]
